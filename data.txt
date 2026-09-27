@@ -1,4 +1,4 @@
 Name: Telma
 Age: 38
 Favorite Color: Yellow
-Hobbies: Read
+Hobbies: Read, bake
